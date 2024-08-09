@@ -1,4 +1,4 @@
-@media (max-width: 600px) and (min-width:400px) {
+@mediascreen  (max-width: 600px) {
     nav{justify-content: center;
         padding: 5vh 0vh 0vh 0vh;}
     #intro h1 {
