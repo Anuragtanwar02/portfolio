@@ -1,4 +1,4 @@
-@media (max-width: 600px) {
+@media (max-width: 500px) {
 
     #intro h1 {
         font-size: 3rem;
@@ -56,7 +56,7 @@ nav,.nav2{font-size:1.5rem;}
 
 
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     #page6 {
         max-height: 50dvh;
     }
