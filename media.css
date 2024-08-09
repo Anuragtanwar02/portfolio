@@ -1,5 +1,6 @@
-@media (max-width: 500px) {
-
+@media (max-width: 600px) and (min-width:400px) {
+    nav{justify-content: center;
+        padding: 5vh 0vh 0vh 0vh;}
     #intro h1 {
         font-size: 3rem;
     }
@@ -38,25 +39,12 @@
         height: 30dvh;
         width: 50dvw;
     }
-nav,.nav2{font-size:1.5rem;}
 
+    nav,
+    .nav2 {
+        font-size: 1.5rem;
+    }
 
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-@media (max-width: 500px) {
     #page6 {
         max-height: 50dvh;
     }
