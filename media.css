@@ -1,0 +1,79 @@
+@media (max-width: 600px) {
+
+    #intro h1 {
+        font-size: 3rem;
+    }
+
+    #intro h3 {
+        font-size: 1.5rem;
+    }
+
+
+    #page4 h1 {
+        font-size: 3rem;
+    }
+
+    #page4 h3 {
+        font-size: 2rem;
+    }
+
+    #page4 p {
+        font-size: 1rem;
+    }
+
+    #page5 h1 {
+        font-size: 2.5rem;
+    }
+
+    #page5 p {
+        font-size: 1.5rem;
+    }
+
+    #page5 img {
+        height: 30dvh;
+        width: 50dvw;
+    }
+
+    #page4 img {
+        height: 30dvh;
+        width: 50dvw;
+    }
+nav,.nav2{font-size:1.5rem;}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 600px) {
+    #page6 {
+        max-height: 50dvh;
+    }
+
+    #page6 h1 {
+        font-size: 3rem;
+    }
+
+    #page6 p {
+        font-size: 0.8rem;
+    }
+
+    #page6 span {
+        font-size: 1rem;
+    }
+
+    #page6 .a {
+        font-size: 1.5rem;
+    }
+}
