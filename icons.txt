@@ -1,0 +1,18 @@
+.end{display: flex;
+background-image:linear-gradient(to right, yellow , blue, orange , pink , purple );
+height:50px;
+width: 100%;
+padding: 20px;
+position:fixed;
+bottom: 0%;}
+<div class="end">
+    <div class="name">Twitch <br> Con</div>
+<div class="mid">Take $20 off your pass to San Diego! See how.</div>
+<div class="btn"><a href="https://twitchcon.com/san-diego-2024/tickets/">Buy Now ➡</a></div>
+   </div>
+
+<i class="fa-brands fa-twitch"></i>
+    <i class="fa-brands fa-facebook"></i>
+    <i class="fa-brands fa-instagram"></i>
+    <i class="fa-brands fa-tiktok"></i>
+    <i class="fa-brands fa-x-twitter"></i>
